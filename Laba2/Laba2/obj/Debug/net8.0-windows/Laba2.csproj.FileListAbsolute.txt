@@ -1,0 +1,17 @@
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\bin\Debug\net8.0-windows\Laba2.exe
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\bin\Debug\net8.0-windows\Laba2.deps.json
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\bin\Debug\net8.0-windows\Laba2.runtimeconfig.json
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\bin\Debug\net8.0-windows\Laba2.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\bin\Debug\net8.0-windows\Laba2.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\Laba2.MainForm.resources
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\Laba2.csproj.GenerateResource.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\Laba2.AssemblyInfoInputs.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\Laba2.AssemblyInfo.cs
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\Laba2.sourcelink.json
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\Laba2.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\refint\Laba2.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\Laba2.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\Laba2.genruntimeconfig.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\ТИ\2 лаба\2 лаба\Laba2\Laba2\obj\Debug\net8.0-windows\ref\Laba2.dll
