@@ -27,7 +27,7 @@ namespace Laba2
                     length++;
                 }
             }
-            RegLabel.Text = $"Состояние регистра (24): {length}";
+            RegLabel.Text = $"Г‘Г®Г±ГІГ®ГїГ­ГЁГҐ Г°ГҐГЈГЁГ±ГІГ°Г  (24): {length}";
         }
 
         private void ExecuteButton_Click(object sender, EventArgs e)
@@ -36,13 +36,13 @@ namespace Laba2
 
             if (RegTextBox.Text.Length != 24)
             {
-                MessageBox.Show("Длина регистра должна быть равна 24 символам!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Г„Г«ГЁГ­Г  Г°ГҐГЈГЁГ±ГІГ°Г  Г¤Г®Г«Г¦Г­Г  ГЎГ»ГІГј Г°Г ГўГ­Г  24 Г±ГЁГ¬ГўГ®Г«Г Г¬!", "ГЋГёГЁГЎГЄГ ", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
             if (string.IsNullOrEmpty(PlainTextBox.Text))
             {
-                MessageBox.Show("Выберите файл с исходным текстом!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Г‚Г»ГЎГҐГ°ГЁГІГҐ ГґГ Г©Г« Г± ГЁГ±ГµГ®Г¤Г­Г»Г¬ ГІГҐГЄГ±ГІГ®Г¬!", "ГЋГёГЁГЎГЄГ ", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
@@ -55,7 +55,7 @@ namespace Laba2
 
             ResTextBox.Text = ArrayToStr(ciphertext);
             SaveButton.Enabled = true;
-            сохранитьКакToolStripMenuItem.Enabled = true;
+            Г±Г®ГµГ°Г Г­ГЁГІГјГЉГ ГЄToolStripMenuItem.Enabled = true;
         }
 
         string ArrayToStr(bool[] array)
@@ -71,13 +71,13 @@ namespace Laba2
             }
             else
             {
-                result.Append("Первые 10 байт: \n");
+                result.Append("ГЏГҐГ°ГўГ»ГҐ 10 ГЎГ Г©ГІ: \n");
                 for (int i = 0; i < 80; i++)
                 {
                     result.Append(array[i] ? '1' : '0');
                 }
 
-                result.Append($"{Environment.NewLine}Последние 10 байт: \n");
+                result.Append($"{Environment.NewLine}ГЏГ®Г±Г«ГҐГ¤Г­ГЁГҐ 10 ГЎГ Г©ГІ: \n");
                 for (int i = array.Length - 80; i < array.Length; i++)
                 {
                     result.Append(array[i] ? '1' : '0');
@@ -99,7 +99,7 @@ namespace Laba2
         public void GenerateKey(int length)
         {
             key = new bool[length];
-            int[] taps = { 0, 2, 3, 23 }; // Позиции многочлена x^24 + x^3 + x^2 + x^0
+            int[] taps = { 0, 2, 3, 23 };
 
             for (int i = 0; i < length; i++)
             {
