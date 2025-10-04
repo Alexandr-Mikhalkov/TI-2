@@ -1,6 +1,3 @@
-# ТИ. Лабораторная работа 2
-# Михальков Александр, группа 351002
-
-# Руководство
-  
-Исполняемый файл находится по пути TI-Laba2/Laba2/Laba2/bin/Debug/net8.0-windows/Laba2.exe
+# LFSR Encryptor
+## Description
+An encryption application based on a Linear Feedback Shift Register (LFSR). It allows users to set an initial 24-bit register state, generate a keystream, and encrypt or decrypt binary data using bitwise XOR operations.
