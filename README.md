@@ -3,4 +3,4 @@
 
 # Руководство
   
-Исполняемый файл находится по пути TI_Laba2/Laba2/Laba2/bin/Debug/net8.0-windows/Laba2.exe
+Исполняемый файл находится по пути TI-Laba2/Laba2/Laba2/bin/Debug/net8.0-windows/Laba2.exe
